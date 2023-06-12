@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @bit-hawk
+- 👀 I’m a seasoned low-level programmer skilled in Golang and C.
+- 📚 Been into Bitcoin since 2012, recently got hooked on Bitcoin Cash.
+- 🏴‍☠️ Ancap at heart.
+- 💡 Big on cryptography, mining software and node development.
+- 💞️ Looking to join forces on projects that revolve around these areas, especially if it's about strengthening the Bitcoin Cash ecosystem.
+- 📫 Got something to say? Ping me here on GitHub or shoot a message on Telegram: https://t.me/bit_hawk
