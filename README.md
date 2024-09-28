@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bit-hawk
 - 👀 I’m a seasoned low-level programmer skilled in Rust, Golang and C.
-- 📚 Been into Bitcoin since 2012, recently got hooked on Bitcoin Cash.
+- 📚 Been into Bitcoin since 2012, recently got hooked on Bitcoin Cash and Monero.
 - 🏴‍☠️ Ancap at heart.
 - 💡 Big on cryptography, mining software and node development.
 - 💞️ Looking to join forces on projects that revolve around these areas.
